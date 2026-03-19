@@ -1,0 +1,11 @@
+# Core Automation & Input Control
+pyautogui>=0.9.54
+pygetwindow>=0.0.9
+
+# Image Processing & Recognition
+opencv-python>=4.8.0
+Pillow>=10.2.0
+numpy>=1.24.0
+
+# Clipboard
+pyperclip>=1.8.2
